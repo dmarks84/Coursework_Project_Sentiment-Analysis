@@ -5,5 +5,5 @@
 In this project, we inputted a number of tweets and analyzed their content in order to perform rudimetary sentiment analysis.
 
 ## Skills (Developed & Applied)
-Programming, Python, Statistics, Webscraping, Classification, Image Recognition, Text Recognition
+Programming, Python, Statistics, Webscraping, Classification, Sentiment Analysis
     
